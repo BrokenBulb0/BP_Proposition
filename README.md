@@ -9,7 +9,7 @@ Arquitectura empresarial para una plataforma de banca digital basada en microser
 ## Diagramas
 
 ### Context Diagram
-![Context](diagramas/Context.png)
+(diagramas/Context.png)
 
 ### Container Diagram
 ![Containers](diagramas/Contenedores.png)
